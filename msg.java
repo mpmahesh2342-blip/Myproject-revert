@@ -4,6 +4,5 @@ public class msg {
 		system.out.println("Addition is--:"+(a=b));
 		system.out.println("difference is--:"+(a-b));
 		system.out.println("product is--:"+(a*b));
-		system.out.println("Division is--:"+(a/b));
 	}
 }
